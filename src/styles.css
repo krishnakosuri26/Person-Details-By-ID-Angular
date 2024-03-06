@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Montserrat:ital@0;1&family=Oswald:wght@200..700&family=Roboto&display=swap');
+
+body {
+
+  font-family: 'Roboto';
+  background-color: rgb(5, 10, 12);
+  color: white;
+
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: left;
+  height: 50vh;
+}
+
